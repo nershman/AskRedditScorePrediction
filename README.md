@@ -1,6 +1,6 @@
 # Ask Reddit Score Prediction
 
-Sherman ALINE & Le Anh DUNG (Kaggle: Sherman and Dung (TSE))
+Sherman ALINE & Le Anh DUNG
 
 ## Archive 
 
